@@ -2,6 +2,9 @@
 基于python3.5环境
 依懒包：pip install redis elasticsearch
 
+文件存放目录：
+/opt/slowlog/
+host.txt #一行一台redis实例服务器IP地址
 
 准备环境：
 1、redis端配置：
